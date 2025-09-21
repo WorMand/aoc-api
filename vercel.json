@@ -7,10 +7,10 @@
     }
   ],
   "env": {
-    "SUPABASE_URL": "@supabase-url",
-    "SUPABASE_ANON_KEY": "@supabase-anon-key", 
-    "SUPABASE_SERVICE_ROLE_KEY": "@supabase-service-role-key",
-    "JWT_SECRET": "@jwt-secret",
-    "NEXTAUTH_SECRET": "@nextauth-secret"
+    "SUPABASE_URL": "https://edsdpxtkchdyguppnfwv.supabase.co",
+    "SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVkc2RweHRrY2hkeWd1cHBuZnd2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTc0MjI5MDYsImV4cCI6MjA3Mjk5ODkwNn0.-vKqPF0Ph-gbJYJhAMOB2b0vyQEg_E3V6j6zrvZqvM0", 
+    "SUPABASE_SERVICE_ROLE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVkc2RweHRrY2hkeWd1cHBuZnd2Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1NzQyMjkwNiwiZXhwIjoyMDcyOTk4OTA2fQ.XfITE4WjxrpbAEhSS_J-loquFrsnf72Y1T9Hc5RlN6U",
+    "JWT_SECRET": "aoc-super-secret-key-2025-arnelyum-tech",
+    "NEXTAUTH_SECRET": "aoc-super-secret-key-2025-arnelyum-tech"
   }
 }
